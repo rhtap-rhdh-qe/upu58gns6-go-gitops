@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: upu58gns6-go-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/upu58gns6-go
